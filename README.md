@@ -15,6 +15,8 @@
 - 千峰教育官方网站：http://www.mobiletrain.org/
 - 尚马教育官方网站：https://www.javasm.cn/
 
+
+- 外来流传的资料越多，证明这种培训机构他手里的货越多，实力越强。
 ### 一、黑马程序员
 #### 电商项目
 - 1、淘淘商城
@@ -110,17 +112,17 @@ https://gitee.com/itxinfei/atcrowdfunding.git
 https://gitee.com/itxinfei/coin-exchange.git
 
 ### 四、没有资料的项目
-#### 传智黑马
+#### 1-传智黑马
 - 1、车服管家
 - 2、元蜂WMS
 - 3、品达仓储WMS
 - 4、九点钟
 
-#### 尚硅谷
+#### 2-尚硅谷
 - 1、美年旅游
 
 
-#### 尚学堂--资料最难找
+#### 3-尚学堂--资料最难找
 - 1、云学堂
 https://www.bjsxt.com/java-project01.html
 - 2、尚云餐饮
@@ -140,7 +142,39 @@ https://www.bjsxt.com/java-project08.html
 - 9、云医疗项目 
 https://www.bjsxt.com/java-project10.html
 
-
+#### 4-千峰教育
+- 1、锋迷商城
+https://javaeeproject.com/archives/fmmall
+- 2、锋迷便利店系统
+https://javaeeproject.com/archives/%E9%94%8B%E8%BF%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E7%B3%BB%E7%BB%9F
+- 3、锋迷智能餐厅点餐系统
+https://javaeeproject.com/archives/diancan
+- 4、锋迷头条资讯管理系统
+https://javaeeproject.com/archives/news
+- 5、锋迷麦陶乐回收系统
+https://javaeeproject.com/archives/mtl
+- 6、锋迷物流信息管理系统
+https://javaeeproject.com/archives/wuliumis
+- 7、锋迷医院综合管理系统
+https://javaeeproject.com/archives/hospital
+- 8、锋迷招聘网站系统
+https://javaeeproject.com/archives/zhaopin
+- 9、汽车保险综合服务系统
+https://javaeeproject.com/archives/qichebaoxian
+- 10、锋迷ERP企业管理系统
+https://javaeeproject.com/archives/erp
+- 11、锋迷物业管理系统
+https://javaeeproject.com/archives/wuyegl
+- 12、锋迷三级分销系统
+https://javaeeproject.com/archives/%E4%B8%89%E7%BA%A7%E5%88%86%E9%94%80%E7%B3%BB%E7%BB%9F
+- 13、手机版客户商品管理系统
+https://javaeeproject.com/archives/fxwp
+- 14、微分销客户管理系统
+https://javaeeproject.com/archives/fxkh
+- 15、微信平台管理系统
+https://javaeeproject.com/archives/fxhtgl
+- 16、婚礼汇
+https://javaeeproject.com/archives/hunli
 
 
 
