@@ -4,14 +4,14 @@
 - 3、QQ群：863662849
 
 ### 项目的官方网站-推荐！
-黑马官方网站：https://www.itheima.com/
-传智播客网站：http://www.itcast.cn/
-黑马项目信息站：https://pip.itcast.cn/java
-尚硅谷官方网站：http://www.atguigu.com/
-尚学堂官方网站：https://www.bjsxt.com/
+- 黑马官方网站：https://www.itheima.com/
+- 传智播客网站：http://www.itcast.cn/
+- 黑马项目信息站：https://pip.itcast.cn/java
+- 尚硅谷官方网站：http://www.atguigu.com/
+- 尚学堂官方网站：https://www.bjsxt.com/
 
-### 一、黑马项目
-#### 电商项目（31个项目，后期继续更新）
+### 一、黑马程序员
+#### 电商项目
 - 1、淘淘商城
 https://gitee.com/itxinfei/taotao-parent.git
 - 2、品优购商城
@@ -87,7 +87,7 @@ https://gitee.com/itxinfei/jixinda.git
 - 1、SaaS Export
 https://gitee.com/itxinfei/export_parent.git
 
-### 二、尚硅谷项目（5个项目）
+### 二、尚硅谷
 - 1、尚品汇（谷粒商城）
 https://gitee.com/itxinfei/gmall.git
 - 2、尚课吧（谷粒学院）
