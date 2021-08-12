@@ -3,12 +3,17 @@
 - 2、愿景：巩固基础，提升能力，熟悉业务，到点下班！
 - 3、QQ群：863662849
 
-### 项目的官方网站-推荐！
-- 黑马官方网站：https://www.itheima.com/
-- 传智播客网站：http://www.itcast.cn/
+### 项目的官方网站
+项目演示网站：
 - 黑马项目信息站：https://pip.itcast.cn/java
+
+培训机构网站：
+- 黑马官方网站：https://www.itheima.com/
 - 尚硅谷官方网站：http://www.atguigu.com/
 - 尚学堂官方网站：https://www.bjsxt.com/
+- 动力节点官方网站：http://www.bjpowernode.com/
+- 千峰教育官方网站：http://www.mobiletrain.org/
+- 尚马教育官方网站：https://www.javasm.cn/
 
 ### 一、黑马程序员
 #### 电商项目
