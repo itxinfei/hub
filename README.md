@@ -1,8 +1,15 @@
-### 项目集合
-- 巩固基础，提升能力，熟悉业务，到点下班！
-- QQ交流群：863662849
-### 项目信息站-推荐！
-https://pip.itcast.cn/java
+### 项目Hub
+- 1、重点：如果项目资料和代码侵权请联系我删除，所有项目资料都是从官网、淘宝闲鱼等网站获得，以学习为目的，不得交易侵害官方权益，自学有困难，花一点钱去线下学习吧！入行还是很困难的，有师傅带一下还是不错。不是打广告，培训和自学目的都是一样，只要努力人人都能学习成功，对自己的容忍，就是对未来的残忍。--入行三年多的菜鸟
+- 2、愿景：巩固基础，提升能力，熟悉业务，到点下班！
+- 3、QQ群：863662849
+
+### 项目的官方网站-推荐！
+黑马官方网站：https://www.itheima.com/
+传智播客网站：http://www.itcast.cn/
+黑马项目信息站：https://pip.itcast.cn/java
+尚硅谷官方网站：http://www.atguigu.com/
+尚学堂官方网站：https://www.bjsxt.com/
+
 ### 一、黑马项目
 #### 电商项目（31个项目，后期继续更新）
 - 1、淘淘商城
@@ -79,6 +86,7 @@ https://gitee.com/itxinfei/jixinda.git
 #### 贸易项目
 - 1、SaaS Export
 https://gitee.com/itxinfei/export_parent.git
+
 ### 二、尚硅谷项目（5个项目）
 - 1、尚品汇（谷粒商城）
 https://gitee.com/itxinfei/gmall.git
@@ -90,14 +98,49 @@ https://gitee.com/itxinfei/yygh-parent.git
 https://gitee.com/itxinfei/shangrongbao.git
 - 5、尚筹网
 https://gitee.com/itxinfei/atcrowdfunding.git
-### 三、没有找到资料的项目（缺5个项目）
+
+### 三、尚学堂
+#### 货币交易
+1、CoinExchange开源数字货币交易所
+https://gitee.com/itxinfei/coin-exchange.git
+
+### 四、没有资料的项目
 #### 传智黑马
 - 1、车服管家
 - 2、元蜂WMS
 - 3、品达仓储WMS
 - 4、九点钟
+
 #### 尚硅谷
 - 1、美年旅游
+
+
+#### 尚学堂--资料最难找
+- 1、云学堂
+https://www.bjsxt.com/java-project01.html
+- 2、尚云餐饮
+https://www.bjsxt.com/java-project02.html
+- 3、5G物联网智慧物业
+https://www.bjsxt.com/java-project03.html
+- 4、中云律所 
+https://www.bjsxt.com/java-project04.html
+- 5、VR在线装修
+https://www.bjsxt.com/java-project05.html
+- 6、学堂直聘
+https://www.bjsxt.com/java-project06.html
+- 7、尚展漫画
+https://www.bjsxt.com/java-project07.html
+- 8、Varient视频博客
+https://www.bjsxt.com/java-project08.html
+- 9、云医疗项目 
+https://www.bjsxt.com/java-project10.html
+
+
+
+
+
+
+
 
 
 
