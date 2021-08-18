@@ -1,5 +1,5 @@
 ### 项目Hub
-- 1、重点：如果项目资料和代码侵权请联系我删除，所有项目资料都是从官网、淘宝闲鱼等网站获得，以学习为目的，不得交易侵害官方权益，自学有困难，花一点钱去线下学习吧！入行还是很困难的，有师傅带一下还是不错。不是打广告，培训和自学目的都是一样，只要努力人人都能学习成功，对自己的容忍，就是对未来的残忍。--入行三年多的菜鸟
+- 1、重点：如果项目资料和代码侵权请联系我删除，所有项目资料都是从官网、淘宝闲鱼等网站获得，以学习为目的，不得交易侵害官方权益，自学有困难，花一点钱去线下学习吧！入行还是很困难的。
 - 2、愿景：巩固基础，提升能力，熟悉业务，到点下班！
 - 3、QQ群：863662849
 
@@ -11,9 +11,6 @@
 - 黑马官方网站：https://www.itheima.com/
 - 尚硅谷官方网站：http://www.atguigu.com/
 - 尚学堂官方网站：https://www.bjsxt.com/
-- 动力节点官方网站：http://www.bjpowernode.com/
-- 千峰教育官方网站：http://www.mobiletrain.org/
-- 尚马教育官方网站：https://www.javasm.cn/
 
 
 - 外来流传的资料越多，证明这种培训机构他手里的货越多，实力越强。
@@ -111,7 +108,8 @@ https://gitee.com/itxinfei/atcrowdfunding.git
 1、CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
 
-### 四、没有资料的项目
+### 四、缺少的项目
+
 #### 1-传智黑马
 - 1、车服管家
 - 2、元蜂WMS
@@ -120,7 +118,6 @@ https://gitee.com/itxinfei/coin-exchange.git
 
 #### 2-尚硅谷
 - 1、美年旅游
-
 
 #### 3-尚学堂--资料最难找
 - 1、云学堂
@@ -141,47 +138,3 @@ https://www.bjsxt.com/java-project07.html
 https://www.bjsxt.com/java-project08.html
 - 9、云医疗项目 
 https://www.bjsxt.com/java-project10.html
-
-#### 4-千峰教育
-- 1、锋迷商城
-https://javaeeproject.com/archives/fmmall
-- 2、锋迷便利店系统
-https://javaeeproject.com/archives/%E9%94%8B%E8%BF%B7%E4%BE%BF%E5%88%A9%E5%BA%97%E7%B3%BB%E7%BB%9F
-- 3、锋迷智能餐厅点餐系统
-https://javaeeproject.com/archives/diancan
-- 4、锋迷头条资讯管理系统
-https://javaeeproject.com/archives/news
-- 5、锋迷麦陶乐回收系统
-https://javaeeproject.com/archives/mtl
-- 6、锋迷物流信息管理系统
-https://javaeeproject.com/archives/wuliumis
-- 7、锋迷医院综合管理系统
-https://javaeeproject.com/archives/hospital
-- 8、锋迷招聘网站系统
-https://javaeeproject.com/archives/zhaopin
-- 9、汽车保险综合服务系统
-https://javaeeproject.com/archives/qichebaoxian
-- 10、锋迷ERP企业管理系统
-https://javaeeproject.com/archives/erp
-- 11、锋迷物业管理系统
-https://javaeeproject.com/archives/wuyegl
-- 12、锋迷三级分销系统
-https://javaeeproject.com/archives/%E4%B8%89%E7%BA%A7%E5%88%86%E9%94%80%E7%B3%BB%E7%BB%9F
-- 13、手机版客户商品管理系统
-https://javaeeproject.com/archives/fxwp
-- 14、微分销客户管理系统
-https://javaeeproject.com/archives/fxkh
-- 15、微信平台管理系统
-https://javaeeproject.com/archives/fxhtgl
-- 16、婚礼汇
-https://javaeeproject.com/archives/hunli
-
-
-
-
-
-
-
-
-
-
