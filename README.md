@@ -3,7 +3,6 @@
 - QQ群：863662849
 
 ### 官方网站
-
 - 项目信息站：https://pip.itcast.cn/java
 - 黑马官方网站：https://www.itheima.com/
 - 尚硅谷官方网站：http://www.atguigu.com/
@@ -23,15 +22,12 @@ https://gitee.com/itxinfei/leyou-parent.git
 https://gitee.com/itxinfei/changgou-parent.git
 - 6、青橙商城
 https://gitee.com/itxinfei/qingcheng.git
-
 #### 物流项目
 - 1、品达物流
 https://gitee.com/itxinfei/pinda-tms.git
-
 #### 冷链物流
 - 1、冰眼冷链
 https://gitee.com/itxinfei/cold.git
-
 #### 金融项目
 - 1、P2P金融
 https://gitee.com/itxinfei/itcast_p2p.git
@@ -45,59 +41,47 @@ https://gitee.com/itxinfei/chongba-parent.git
 https://gitee.com/itxinfei/prize.git
 - 6、智牛股
 https://gitee.com/itxinfei/bulls-stock.git
-
 #### 教育项目
 - 1、学成在线
 https://gitee.com/itxinfei/xuecheng-parent.git
 - 2、智慧学成
 https://gitee.com/itxinfei/xc-analysis.git
-
 #### 社交项目
 - 1、十次方
 https://gitee.com/itxinfei/tensquare-parent.git
 - 2、探花交友
 https://gitee.com/itxinfei/tanhua.git
-
 #### 房产项
 - 1、好客租房
 https://gitee.com/itxinfei/haoke.git
 - 2、智维找房
 https://gitee.com/itxinfei/houserush.git
-
 #### 物联网项目
 - 1、立可得
 https://gitee.com/itxinfei/lkd_parent.git
 - 2、亿可控
 https://gitee.com/itxinfei/yikekong.git
-
 #### 新闻资讯
 - 1、黑马头条
 https://gitee.com/itxinfei/heima-leadnews.git
-
 #### 医疗项目
 - 1、传智健康
 https://gitee.com/itxinfei/health_parent.git
-
 #### 餐饮项目
 - 1、餐掌柜
 https://gitee.com/itxinfei/restkeeper.git
-
 #### 秒杀项目
 - 1、黑马秒杀
 https://gitee.com/itxinfei/seckill-parent.git
-
 #### 人力资源
 - 1、SaaS-IHRM
 https://gitee.com/itxinfei/ihrm_parent.git
-
 #### 短信项目
 - 1、集信达
 https://gitee.com/itxinfei/jixinda.git
-
 #### 贸易项目
 - 1、SaaS Export
 https://gitee.com/itxinfei/export_parent.git
-
 ### 二、尚硅谷
 - 1、尚品汇（谷粒商城）
 https://gitee.com/itxinfei/gmall.git
@@ -109,23 +93,19 @@ https://gitee.com/itxinfei/yygh-parent.git
 https://gitee.com/itxinfei/shangrongbao.git
 - 5、尚筹网
 https://gitee.com/itxinfei/atcrowdfunding.git
-
 ### 三、尚学堂
 #### 货币交易
 1、CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
-
 ### 四、缺少的项目
 #### 1-传智黑马
 - 1、车服管家
 - 2、元蜂WMS
 - 3、品达仓储WMS
 - 4、九点钟
-
 #### 2-尚硅谷
 - 1、美年旅游
-
-#### 3-尚学堂--资料最难找
+#### 3-尚学堂
 - 1、云学堂
 https://www.bjsxt.com/java-project01.html
 - 2、尚云餐饮
