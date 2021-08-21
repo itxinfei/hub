@@ -1,12 +1,19 @@
-### 项目Hub
-- 重点：如果项目资料和代码侵权请联系我删除，所有项目资料都是从官网、淘宝闲鱼等网站获得，以学习为目的。
+### 项目HUB
+- 如果项目代码和资料涉及侵权，请联系我删除，所有项目资料都是从官网、淘宝、闲鱼等网站获得。
+- 本人是以学习为目的，不用于商业行为，维护官方利益，课程开发不易。
+- 项目中部分资料本人无权公开，比如前端工程和文档，如需要请到官网获取或者线下培训。
 - QQ群：863662849
 
-### 官方网站
+### 在线演示
 - 项目信息站：https://pip.itcast.cn/java
+
+### 官方网站
 - 黑马官方网站：https://www.itheima.com/
 - 尚硅谷官方网站：http://www.atguigu.com/
 - 尚学堂官方网站：https://www.bjsxt.com/
+
+### 面试刷题
+- https://www.funit.cn/
 
 ### 一、黑马程序员
 #### 电商项目
@@ -124,3 +131,5 @@ https://www.bjsxt.com/java-project07.html
 https://www.bjsxt.com/java-project08.html
 - 9、云医疗项目 
 https://www.bjsxt.com/java-project10.html
+
+### 为积累资本和实力，唯有努力瞎折腾
