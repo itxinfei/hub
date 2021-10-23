@@ -1,20 +1,12 @@
-### 项目HUB
-- 如果项目代码和资料涉及侵权，请联系我删除，所有项目资料都是从官网、淘宝、闲鱼等网站获得。
-- 本人是以学习为目的，不用于商业行为，维护官方利益，课程开发不易。
-- 项目中部分资料本人无权公开，比如前端工程和文档，如需要请到官网获取或者线下培训。
+## 一、项目申明
+- 如果项目代码和资料涉及侵权，请联系我删除，所有项目资料都是从官网、淘宝、闲鱼等网站获得，本人是以学习为目的，没有商业行为，维护官方利益。项目中部分资料本人无权公开，比如前端工程和文档，如需要请到官网获取或者线下培训。
 - QQ群：863662849
+- 黑马程序员：    https://www.itheima.com/
+- 黑马项目信息站: https://pip.itcast.cn/java
+- 面试刷题：      https://www.funit.cn/
+- 尚硅谷：        http://www.atguigu.com/
 
-### 在线演示
-- 项目信息站：https://pip.itcast.cn/java
-
-### 官方网站
-- 黑马：  https://www.itheima.com/
-- 尚硅谷：http://www.atguigu.com/
-
-### 面试刷题
-- https://www.funit.cn/
-
-### 一、黑马程序员
+## 二、黑马程序员
 #### 电商项目
 - 1、淘淘商城
 https://gitee.com/itxinfei/taotao-parent.git
@@ -88,7 +80,8 @@ https://gitee.com/itxinfei/jixinda.git
 #### 贸易项目
 - 1、SaaS Export
 https://gitee.com/itxinfei/export_parent.git
-### 二、尚硅谷
+
+## 三、尚硅谷
 - 1、尚品汇（谷粒商城）
 https://gitee.com/itxinfei/gmall.git
 - 2、尚课吧（谷粒学院）
@@ -99,11 +92,11 @@ https://gitee.com/itxinfei/yygh-parent.git
 https://gitee.com/itxinfei/shangrongbao.git
 - 5、尚筹网
 https://gitee.com/itxinfei/atcrowdfunding.git
-### 三、尚学堂
+## 四、尚学堂
 #### 货币交易
 1、CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
-### 四、目前没有找到的项目
+## 五、缺少的项目
 #### 1-传智黑马
 - 1、车服管家
 - 2、元蜂WMS
