@@ -8,9 +8,8 @@
 - 项目信息站：https://pip.itcast.cn/java
 
 ### 官方网站
-- 黑马官方网站：https://www.itheima.com/
-- 尚硅谷官方网站：http://www.atguigu.com/
-- 尚学堂官方网站：https://www.bjsxt.com/
+- 黑马：  https://www.itheima.com/
+- 尚硅谷：http://www.atguigu.com/
 
 ### 面试刷题
 - https://www.funit.cn/
@@ -104,7 +103,7 @@ https://gitee.com/itxinfei/atcrowdfunding.git
 #### 货币交易
 1、CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
-### 四、缺少的项目
+### 四、目前没有找到的项目
 #### 1-传智黑马
 - 1、车服管家
 - 2、元蜂WMS
@@ -113,24 +112,5 @@ https://gitee.com/itxinfei/coin-exchange.git
 - 5、律师在线
 #### 2-尚硅谷
 - 1、美年旅游
-#### 3-尚学堂
-- 1、云学堂
-https://www.bjsxt.com/java-project01.html
-- 2、尚云餐饮
-https://www.bjsxt.com/java-project02.html
-- 3、5G物联网智慧物业
-https://www.bjsxt.com/java-project03.html
-- 4、中云律所 
-https://www.bjsxt.com/java-project04.html
-- 5、VR在线装修
-https://www.bjsxt.com/java-project05.html
-- 6、学堂直聘
-https://www.bjsxt.com/java-project06.html
-- 7、尚展漫画
-https://www.bjsxt.com/java-project07.html
-- 8、Varient视频博客
-https://www.bjsxt.com/java-project08.html
-- 9、云医疗项目 
-https://www.bjsxt.com/java-project10.html
 
 ### 为积累资本和实力，唯有努力瞎折腾
