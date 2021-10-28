@@ -7,79 +7,91 @@
 - 尚硅谷：        http://www.atguigu.com/
 
 ## 二、黑马程序员
-#### 电商项目
-- 1、淘淘商城
+#### 1、电商项目
+- 淘淘商城
 https://gitee.com/itxinfei/taotao-parent.git
-- 2、品优购商城
+- 品优购商城
 https://gitee.com/itxinfei/pinyougou-parent.git
-- 3、宜立方商城
+- 宜立方商城
 https://gitee.com/itxinfei/e3-parent.git
-- 4、乐优商城
+- 乐优商城
 https://gitee.com/itxinfei/leyou-parent.git
-- 5、畅购商城
+- 畅购商城
 https://gitee.com/itxinfei/changgou-parent.git
-- 6、青橙商城
+- 青橙商城
 https://gitee.com/itxinfei/qingcheng.git
-#### 物流项目
-- 1、品达物流
+
+#### 2、物流项目
+- 品达物流
 https://gitee.com/itxinfei/pinda-tms.git
-#### 冷链物流
-- 1、冰眼冷链
+- 冰眼冷链
 https://gitee.com/itxinfei/cold.git
-#### 金融项目
-- 1、P2P金融
+
+#### 3、金融项目
+- P2P金融
 https://gitee.com/itxinfei/itcast_p2p.git
-- 2、万信金融
+- 万信金融
 https://gitee.com/itxinfei/wanxinp2p.git
-- 3、闪聚支付
+- 闪聚支付
 https://gitee.com/itxinfei/shanjupay.git
-- 4、充吧
+- 充吧
 https://gitee.com/itxinfei/chongba-parent.git
-- 5、红包雨
+- 红包雨
 https://gitee.com/itxinfei/prize.git
-- 6、智牛股
+- 智牛股
 https://gitee.com/itxinfei/bulls-stock.git
-#### 教育项目
-- 1、学成在线
+
+#### 4、教育项目
+- 学成在线
 https://gitee.com/itxinfei/xuecheng-parent.git
-- 2、智慧学成
+- 智慧学成
 https://gitee.com/itxinfei/xc-analysis.git
-#### 社交项目
-- 1、十次方
+
+#### 5、社交项目
+- 十次方
 https://gitee.com/itxinfei/tensquare-parent.git
-- 2、探花交友
+- 探花交友
 https://gitee.com/itxinfei/tanhua.git
-#### 房产项
-- 1、好客租房
+
+#### 6、房产项目
+- 好客租房
 https://gitee.com/itxinfei/haoke.git
-- 2、智维找房
+- 智维找房
 https://gitee.com/itxinfei/houserush.git
-#### 物联网项目
-- 1、立可得
+
+#### 7、物联网项目
+- 立可得
 https://gitee.com/itxinfei/lkd_parent.git
-- 2、亿可控
+- 亿可控
 https://gitee.com/itxinfei/yikekong.git
-#### 新闻资讯
+
+#### 8、资讯项目
 - 1、黑马头条
 https://gitee.com/itxinfei/heima-leadnews.git
-#### 医疗项目
-- 1、传智健康
+
+#### 9、医疗项目
+- 传智健康
 https://gitee.com/itxinfei/health_parent.git
-#### 餐饮项目
-- 1、餐掌柜
+
+#### 10、餐饮项目
+- 餐掌柜
 https://gitee.com/itxinfei/restkeeper.git
-#### 秒杀项目
-- 1、黑马秒杀
+
+#### 11、秒杀项目
+- 黑马秒杀
 https://gitee.com/itxinfei/seckill-parent.git
-#### 人力资源
-- 1、SaaS-IHRM
+
+#### 12、人力资源
+- SaaS-IHRM
 https://gitee.com/itxinfei/ihrm_parent.git
-#### 短信项目
-- 1、集信达
-https://gitee.com/itxinfei/jixinda.git
-#### 贸易项目
-- 1、SaaS Export
+
+#### 14、贸易项目
+- SaaS Export
 https://gitee.com/itxinfei/export_parent.git
+
+#### 13、短信项目
+- 集信达
+https://gitee.com/itxinfei/jixinda.git
 
 ## 三、尚硅谷
 - 1、尚品汇（谷粒商城）
@@ -92,18 +104,19 @@ https://gitee.com/itxinfei/yygh-parent.git
 https://gitee.com/itxinfei/shangrongbao.git
 - 5、尚筹网
 https://gitee.com/itxinfei/atcrowdfunding.git
+
 ## 四、尚学堂
 #### 货币交易
-1、CoinExchange开源数字货币交易所
+CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
+
 ## 五、缺少的项目
-#### 1-传智黑马
 - 1、车服管家
 - 2、元蜂WMS
 - 3、品达仓储WMS
 - 4、九点钟
 - 5、律师在线
-#### 2-尚硅谷
-- 1、美年旅游
+- 6、瑞吉外卖
 
-### 为积累资本和实力，唯有努力瞎折腾
+### 为积累资本和实力，唯有努力瞎折腾！
+### *欢迎小伙伴交换资料...
