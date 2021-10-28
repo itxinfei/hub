@@ -1,10 +1,11 @@
 ## 一、项目申明
-- 如果项目代码和资料涉及侵权，请联系我删除，所有项目资料都是从官网、淘宝、闲鱼等网站获得，本人是以学习为目的，没有商业行为，维护官方利益。项目中部分资料本人无权公开，比如前端工程和文档，如需要请到官网获取或者线下培训。
-- QQ群：863662849
-- 黑马程序员：    https://www.itheima.com/
-- 黑马项目信息站: https://pip.itcast.cn/java
-- 面试刷题：      https://www.funit.cn/
-- 尚硅谷：        http://www.atguigu.com/
+- 如果项目代码和资料涉及侵权，请联系我删除！
+- 所有项目资料都是从官网、淘宝、闲鱼等网站获得，本人是以学习为目的，没有商业行为，维护官方利益。
+- Q Q交流群：863662849
+- 黑马程序员：https://www.itheima.com/
+- 项目信息站: https://pip.itcast.cn/java
+- 面试和刷题：https://www.funit.cn/
+
 
 ## 二、黑马程序员
 #### 1、电商项目
@@ -106,11 +107,11 @@ https://gitee.com/itxinfei/shangrongbao.git
 https://gitee.com/itxinfei/atcrowdfunding.git
 
 ## 四、尚学堂
-#### 货币交易
+#### 1、货币交易
 CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
 
-## 五、缺少的项目
+## 五、缺少的项目--待更新...
 ### 1、车服管家
 ### 2、元蜂WMS
 ### 3、品达仓储WMS
