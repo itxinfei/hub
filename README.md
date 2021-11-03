@@ -1,8 +1,8 @@
-## 一、开源申明
+### 一、开源申明
 - 如果项目代码和资料涉及侵权，请联系我删除！
 - QQ交流群：863662849
 
-## 二、黑马程序员
+### 二、黑马程序员
 #### 1、电商项目
 - 淘淘商城
 https://gitee.com/itxinfei/taotao-parent.git
@@ -89,7 +89,7 @@ https://gitee.com/itxinfei/export_parent.git
 - 集信达
 https://gitee.com/itxinfei/jixinda.git
 
-## 三、尚硅谷
+### 三、尚硅谷
 #### 1、尚品汇（谷粒商城）
 - https://gitee.com/itxinfei/gmall.git
 #### 2、尚课吧（谷粒学院）
@@ -101,12 +101,12 @@ https://gitee.com/itxinfei/jixinda.git
 #### 5、尚筹网
 - https://gitee.com/itxinfei/atcrowdfunding.git
 
-## 四、尚学堂
+### 四、尚学堂
 #### 1、货币交易
 CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
 
-## 五、缺少的项目--待更新...
+### 五、缺少的项目--待更新...
 #### 1、车服管家
 #### 2、元蜂WMS
 #### 3、品达仓储WMS
@@ -114,5 +114,5 @@ https://gitee.com/itxinfei/coin-exchange.git
 #### 5、律师在线
 #### 6、瑞吉外卖
 
-## 六、重点说明
+### 六、重点说明
 - 为积累资本和实力，唯有努力瞎折腾，欢迎交换学习资料哈！
