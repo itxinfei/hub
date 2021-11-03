@@ -90,29 +90,29 @@ https://gitee.com/itxinfei/export_parent.git
 https://gitee.com/itxinfei/jixinda.git
 
 ## 三、尚硅谷
-### 1、尚品汇（谷粒商城）
-https://gitee.com/itxinfei/gmall.git
-### 2、尚课吧（谷粒学院）
-https://gitee.com/itxinfei/guli_parent.git
-### 3、尚医通
-https://gitee.com/itxinfei/yygh-parent.git
-### 4、尚融宝
-https://gitee.com/itxinfei/shangrongbao.git
-### 5、尚筹网
-https://gitee.com/itxinfei/atcrowdfunding.git
+#### 1、尚品汇（谷粒商城）
+- https://gitee.com/itxinfei/gmall.git
+#### 2、尚课吧（谷粒学院）
+- https://gitee.com/itxinfei/guli_parent.git
+#### 3、尚医通
+- https://gitee.com/itxinfei/yygh-parent.git
+#### 4、尚融宝
+- https://gitee.com/itxinfei/shangrongbao.git
+#### 5、尚筹网
+- https://gitee.com/itxinfei/atcrowdfunding.git
 
 ## 四、尚学堂
-### 1、货币交易
+#### 1、货币交易
 CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
 
 ## 五、缺少的项目--待更新...
-### 1、车服管家
-### 2、元蜂WMS
-### 3、品达仓储WMS
-### 4、九点钟
-### 5、律师在线
-### 6、瑞吉外卖
+#### 1、车服管家
+#### 2、元蜂WMS
+#### 3、品达仓储WMS
+#### 4、九点钟
+#### 5、律师在线
+#### 6、瑞吉外卖
 
 ## 六、重点说明
 - 为积累资本和实力，唯有努力瞎折腾，欢迎交换学习资料哈！
