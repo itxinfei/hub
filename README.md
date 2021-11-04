@@ -100,6 +100,8 @@ https://gitee.com/itxinfei/jixinda.git
 - https://gitee.com/itxinfei/shangrongbao.git
 #### 5、尚筹网
 - https://gitee.com/itxinfei/atcrowdfunding.git
+#### 6、美年旅游
+- https://gitee.com/itxinfei/meinian_parent
 
 ### 四、尚学堂
 #### 1、货币交易
