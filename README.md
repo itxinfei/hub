@@ -72,6 +72,8 @@ https://gitee.com/itxinfei/health_parent.git
 #### 10、餐饮项目
 - 餐掌柜
 https://gitee.com/itxinfei/restkeeper.git
+- 瑞吉外卖
+https://gitee.com/itxinfei/reggie.git
 
 #### 11、秒杀项目
 - 黑马秒杀
