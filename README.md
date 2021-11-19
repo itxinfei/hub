@@ -116,6 +116,5 @@ https://gitee.com/itxinfei/coin-exchange.git
 #### 3、品达仓储WMS
 #### 4、九点钟
 #### 5、律师在线
-#### 6、瑞吉外卖
 
 - 欢迎交换学习资料哈！
