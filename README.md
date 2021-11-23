@@ -110,11 +110,12 @@ https://gitee.com/itxinfei/jixinda.git
 CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
 
-### 五、缺少的项目--待更新...
+### 五、稀缺项目
 #### 1、车服管家
 #### 2、元蜂WMS
 #### 3、品达仓储WMS
 #### 4、九点钟
 #### 5、律师在线
+#### 6、康云医药
 
 - 欢迎交换学习资料哈！
