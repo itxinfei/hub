@@ -20,8 +20,6 @@ https://gitee.com/itxinfei/qingcheng.git
 #### 2、物流项目
 - 品达物流
 https://gitee.com/itxinfei/pinda-tms.git
-- 冰眼冷链
-https://gitee.com/itxinfei/cold.git
 
 #### 3、金融项目
 - P2P金融
@@ -56,6 +54,8 @@ https://gitee.com/itxinfei/haoke.git
 https://gitee.com/itxinfei/houserush.git
 
 #### 7、物联网项目
+- 冰眼冷链
+https://gitee.com/itxinfei/cold.git
 - 立可得
 https://gitee.com/itxinfei/lkd_parent.git
 - 亿可控
