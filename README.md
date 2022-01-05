@@ -119,5 +119,3 @@ https://gitee.com/itxinfei/coin-exchange.git
 #### 6、康云医药
 #### 7、汇客CRM
 #### 8、地图专题
-
-### 欢迎交换学习资料哈！
