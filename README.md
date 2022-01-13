@@ -118,4 +118,3 @@ https://gitee.com/itxinfei/coin-exchange.git
 #### 5、律师在线
 #### 6、康云医药
 #### 7、汇客CRM
-#### 8、地图专题
