@@ -91,6 +91,10 @@ https://gitee.com/itxinfei/export_parent.git
 - 集信达
 https://gitee.com/itxinfei/jixinda.git
 
+#### 14、CRM项目
+- 汇客CRM
+https://gitee.com/itxinfei/huike-parent
+
 ### 三、尚硅谷
 #### 1、尚品汇（谷粒商城）
 - https://gitee.com/itxinfei/gmall.git
@@ -117,4 +121,3 @@ https://gitee.com/itxinfei/coin-exchange.git
 #### 4、九点钟
 #### 5、律师在线
 #### 6、康云医药
-#### 7、汇客CRM
