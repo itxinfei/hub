@@ -115,10 +115,11 @@ https://gitee.com/itxinfei/huike-parent
 CoinExchange开源数字货币交易所
 https://gitee.com/itxinfei/coin-exchange.git
 
-### 五、缺少的项目
+### 五、后期更新的项目
 #### 1、车服管家
 #### 2、元蜂WMS
 #### 3、品达仓储WMS
 #### 4、九点钟
 #### 5、律师在线
-#### 6、康云医药
+#### 6、康云医药  
+#### 7、客达天下
