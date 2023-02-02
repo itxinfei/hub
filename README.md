@@ -40,6 +40,8 @@ https://gitee.com/itxinfei/bulls-stock.git
 #### 4、教育项目
 - 学成在线
 https://gitee.com/itxinfei/xuecheng-parent.git
+- 学成在线V3
+https://gitee.com/itxinfei/xuecheng-plus-parent
 - 智慧学成
 https://gitee.com/itxinfei/xc-analysis.git
 
