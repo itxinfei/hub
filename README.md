@@ -99,6 +99,10 @@ https://gitee.com/itxinfei/jixinda.git
 - 汇客CRM
 https://gitee.com/itxinfei/huike-parent
 
+#### 15、打车项目
+- 黑马顺风车
+https://gitee.com/itxinfei/hitch
+
 ### 三、尚硅谷
 #### 1、尚品汇（谷粒商城）
 - https://gitee.com/itxinfei/gmall.git
