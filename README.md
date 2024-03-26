@@ -22,6 +22,8 @@ https://gitee.com/itxinfei/qingcheng.git
 #### 2、物流项目
 - 品达物流
 https://gitee.com/itxinfei/pinda-tms.git
+- 神领物流
+https://gitee.com/itxinfei/sl-express.git
 
 #### 3、金融项目
 - P2P金融
@@ -78,6 +80,8 @@ https://gitee.com/itxinfei/health_parent.git
 https://gitee.com/itxinfei/restkeeper.git
 - 瑞吉外卖
 https://gitee.com/itxinfei/reggie.git
+- 苍穹外卖
+https://gitee.com/itxinfei/sky.git
 
 #### 11、秒杀项目
 - 黑马秒杀
@@ -102,6 +106,9 @@ https://gitee.com/itxinfei/huike-parent
 #### 15、打车项目
 - 黑马顺风车
 https://gitee.com/itxinfei/hitch
+
+#### 16、中州养老
+https://gitee.com/itxinfei/zzyl
 
 ### 三、尚硅谷
 #### 1、尚品汇（谷粒商城）
