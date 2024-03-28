@@ -1,7 +1,13 @@
-### 一、开源申明
-- 如果项目代码和资料涉及侵权，请联系我QQ:747011882
-- 为成长积蓄力量，努力成为全栈工程师。
-- QQ交流群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=-KhniqEHPHRfh04Ui7r9eH2kCEvfrE_-&jump_from=webapi&authKey=gcHlWnSJxgYRuE2XY/FV5k9bDKPwHNtiw9vf1/TKWhyfTHfjAM8oYR71y1fHEUpH"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流" title="Java项目交流"></a> 661543188
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Java项目Hub</h1>
+<h4 align="center">学习Java的项目，为成长积蓄力量，努力成为全栈工程师！</h4>
+<p align="center">
+	<a href="https://gitee.com/itxinfei/hub"><img src="https://gitee.com/y_project/RuoYi/badge/star.svg?theme=gvp"></a>
+</p>
+
+- Q群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=-KhniqEHPHRfh04Ui7r9eH2kCEvfrE_-&jump_from=webapi&authKey=gcHlWnSJxgYRuE2XY/FV5k9bDKPwHNtiw9vf1/TKWhyfTHfjAM8oYR71y1fHEUpH">661543188<img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流" title="Java项目交流"></a> 
+- QQ:747011882
+- 博客：https://blog.csdn.net/qq_20401183
+- B站： https://space.bilibili.com/437960072
 
 ### 二、黑马程序员
 #### 1、外卖
