@@ -1,8 +1,5 @@
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Java项目Hub</h1>
 <h4 align="center">学习Java相关技术的开源项目</h4>
-<p align="center">
-	<a href="https://gitee.com/itxinfei/hub"><img src="https://gitee.com/itxinfei/hub/badge/star.svg?theme=gvp"></a>
-</p>
 
 ### 二、黑马程序员
 #### 1、外卖
