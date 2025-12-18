@@ -4,14 +4,6 @@
 	<a href="https://gitee.com/itxinfei/hub"><img src="https://gitee.com/itxinfei/hub/badge/star.svg?theme=gvp"></a>
 </p>
 
-```
-为成长积蓄力量，努力成为全栈工程师！
-```
-
-- QQ：747011882  Q群：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=-KhniqEHPHRfh04Ui7r9eH2kCEvfrE_-&jump_from=webapi&authKey=gcHlWnSJxgYRuE2XY/FV5k9bDKPwHNtiw9vf1/TKWhyfTHfjAM8oYR71y1fHEUpH">661543188<img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流" title="Java项目交流"></a>  
-- 博客：https://blog.csdn.net/qq_20401183
-- B站： https://space.bilibili.com/437960072
-
 ### 二、黑马程序员
 #### 1、外卖
 - 瑞吉外卖
